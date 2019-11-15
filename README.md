@@ -1,3 +1,4 @@
-# ProjectsForWork
-Projects that I worked on while employed by Amazon, either to assist my team or as individual study. Some of these projects are living and the code here may not be representative of the current deployment. 
+# Quicklink-Search-PHX  
+This project was made to assist my team. This code may not be representative of the current deployment. 
+There is no confidential information contained in this code
 
